@@ -1,3 +1,4 @@
-AI assignment by Jason, Hristo, and Steeven.
+# Boxers Data
+A model that predicts Blue, Red winner based on the given statistics 
 
-BOXERS DATA : https://boxrec.com/en/ratings?jcY%5Bcountry%5D=&jcY%5Bdivision%5D=Heavyweight&jcY%5Bsex%5D=M&jcY%5Bstance%5D=&jcY%5Bstatus%5D=a&r_go=
+by Jason, Hristo, and Steeven.
